@@ -18,6 +18,9 @@
         <module>itstack-demo-design-3-00</module>
         <module>itstack-demo-design-3-01</module>
         <module>itstack-demo-design-3-02</module>
+        <module>itstack-demo-design-4-00</module>
+        <module>itstack-demo-desgin-4-01</module>
+        <module>itstack-demo-design-4-02</module>
     </modules>
 
     <dependencies>
