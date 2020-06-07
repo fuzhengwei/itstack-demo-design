@@ -28,6 +28,8 @@
         <module>itstack-demo-design-7-01</module>
         <module>itstack-demo-design-02</module>
         <module>itstack-demo-design-7-02</module>
+        <module>itstack-demo-design-8-01</module>
+        <module>itstack-demo-design-8-02</module>
     </modules>
 
     <dependencies>
@@ -35,7 +37,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.68</version>
+            <version>1.2.62</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
