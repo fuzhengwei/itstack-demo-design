@@ -30,6 +30,9 @@
         <module>itstack-demo-design-7-02</module>
         <module>itstack-demo-design-8-01</module>
         <module>itstack-demo-design-8-02</module>
+        <module>itstack-demo-design-9-00</module>
+        <module>itstack-demo-design-9-01</module>
+        <module>itstack-demo-design-9-02</module>
     </modules>
 
     <dependencies>
