@@ -36,6 +36,8 @@
         <module>itstack-demo-design-10-00</module>
         <module>itstack-demo-design-10-01</module>
         <module>itstack-demo-design-10-02</module>
+        <module>itstack-demo-design-11-02</module>
+        <module>itstack-demo-design-11-01</module>
     </modules>
 
     <dependencies>
