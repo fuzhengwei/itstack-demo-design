@@ -30,6 +30,18 @@
         <module>itstack-demo-design-7-02</module>
         <module>itstack-demo-design-8-01</module>
         <module>itstack-demo-design-8-02</module>
+        <module>itstack-demo-design-9-00</module>
+        <module>itstack-demo-design-9-01</module>
+        <module>itstack-demo-design-9-02</module>
+        <module>itstack-demo-design-10-00</module>
+        <module>itstack-demo-design-10-01</module>
+        <module>itstack-demo-design-10-02</module>
+        <module>itstack-demo-design-11-02</module>
+        <module>itstack-demo-design-11-01</module>
+        <module>itstack-demo-design-12-00</module>
+        <module>itstack-demo-design-13-00</module>
+        <module>itstack-demo-design-13-01</module>
+        <module>itstack-demo-design-13-02</module>
     </modules>
 
     <dependencies>

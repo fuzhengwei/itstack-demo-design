@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.itstack.demo.design.door.config.StarterAutoConfigure
