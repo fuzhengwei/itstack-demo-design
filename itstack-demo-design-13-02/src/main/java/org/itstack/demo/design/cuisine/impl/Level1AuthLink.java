@@ -1,10 +1,9 @@
-package org.itstack.demo.design.impl;
+package org.itstack.demo.design.cuisine.impl;
 
 import org.itstack.demo.design.AuthInfo;
 import org.itstack.demo.design.AuthLink;
 import org.itstack.demo.design.AuthService;
 
-import java.text.ParseException;
 import java.util.Date;
 
 /**

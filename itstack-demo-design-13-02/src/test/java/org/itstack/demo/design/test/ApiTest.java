@@ -1,18 +1,16 @@
 package org.itstack.demo.design.test;
 
 import com.alibaba.fastjson.JSON;
-import org.itstack.demo.design.AuthInfo;
 import org.itstack.demo.design.AuthLink;
 import org.itstack.demo.design.AuthService;
-import org.itstack.demo.design.impl.Level1AuthLink;
-import org.itstack.demo.design.impl.Level2AuthLink;
-import org.itstack.demo.design.impl.Level3AuthLink;
+import org.itstack.demo.design.cuisine.impl.Level1AuthLink;
+import org.itstack.demo.design.cuisine.impl.Level2AuthLink;
+import org.itstack.demo.design.cuisine.impl.Level3AuthLink;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.text.ParseException;
-import java.util.Collections;
 import java.util.Date;
 
 public class ApiTest {
