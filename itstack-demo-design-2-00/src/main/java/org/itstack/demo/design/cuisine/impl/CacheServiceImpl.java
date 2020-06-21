@@ -1,4 +1,4 @@
-package org.itstack.demo.design.impl;
+package org.itstack.demo.design.cuisine.impl;
 
 import org.itstack.demo.design.CacheService;
 import org.itstack.demo.design.RedisUtils;

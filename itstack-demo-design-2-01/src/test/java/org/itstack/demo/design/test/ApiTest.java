@@ -1,7 +1,7 @@
 package org.itstack.demo.design.test;
 
 import org.itstack.demo.design.CacheService;
-import org.itstack.demo.design.impl.CacheServiceImpl;
+import org.itstack.demo.design.cuisine.impl.CacheServiceImpl;
 import org.junit.Test;
 
 public class ApiTest {

@@ -1,4 +1,4 @@
-package org.itstack.demo.design.impl;
+package org.itstack.demo.design.cuisine.impl;
 
 import org.itstack.demo.design.RedisUtils;
 import org.itstack.demo.design.matter.EGM;
