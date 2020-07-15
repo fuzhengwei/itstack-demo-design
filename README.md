@@ -18,6 +18,11 @@
 </div>
 <br/>
 
+## 源码下载
+
+- [https://github.com/fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design)
+- [https://gitee.com/itstack/itstack-demo-design](https://gitee.com/itstack/itstack-demo-design)
+
 **Hello, world of design！** 你好，设计模式的世界！
 
 欢迎来到这里，很高兴你能拿到这本书，如果你能坚持看完并按照书中的例子进行实践，那么在编程开发的世界里，就又多了一个可以写出良好代码的人，同时也为架构师培养储备了一个人才。
