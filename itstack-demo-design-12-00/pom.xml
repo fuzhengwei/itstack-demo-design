@@ -18,7 +18,7 @@
         <!-- Open Service -->
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <fastjson.version>1.2.60</fastjson.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <logback.version>1.0.9</logback.version>
         <mysql.version>5.1.20</mysql.version>
         <resteasy.version>2.2.1.GA</resteasy.version>
