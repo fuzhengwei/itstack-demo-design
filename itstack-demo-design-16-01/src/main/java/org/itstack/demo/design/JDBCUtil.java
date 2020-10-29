@@ -13,9 +13,9 @@ public class JDBCUtil {
 
     private static Logger logger = LoggerFactory.getLogger(JDBCUtil.class);
 
-    public static final String URL = "jdbc:mysql://172.25.64.119:3306/itstack_demo_ddd";
+    public static final String URL = "jdbc:mysql://127.0.0.1:3306/itstack_demo_ddd";
     public static final String USER = "root";
-    public static final String PASSWORD = "JRTEST";
+    public static final String PASSWORD = "123456";
 
     public static void main(String[] args) throws Exception {
         //1.加载驱动程序
