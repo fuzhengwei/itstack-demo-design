@@ -2,7 +2,7 @@ package org.itstack.demo.design;
 
 public class Singleton_05 {
 
-    private static Singleton_05 instance;
+    private static volatile Singleton_05 instance;
 
     private Singleton_05() {
     }
