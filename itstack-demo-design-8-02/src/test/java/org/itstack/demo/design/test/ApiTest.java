@@ -50,7 +50,7 @@ public class ApiTest {
         treeNodeLink_12.setRuleLimitType(1);
         treeNodeLink_12.setRuleLimitValue("woman");
 
-        List<TreeNodeLink> treeNodeLinkList_1 = new ArrayList<>();
+        List<TreeNodeLink> treeNodeLinkList_1 = new ArrayList<TreeNodeLink>();
         treeNodeLinkList_1.add(treeNodeLink_11);
         treeNodeLinkList_1.add(treeNodeLink_12);
 
@@ -79,7 +79,7 @@ public class ApiTest {
         treeNodeLink_112.setRuleLimitType(5);
         treeNodeLink_112.setRuleLimitValue("25");
 
-        List<TreeNodeLink> treeNodeLinkList_11 = new ArrayList<>();
+        List<TreeNodeLink> treeNodeLinkList_11 = new ArrayList<TreeNodeLink>();
         treeNodeLinkList_11.add(treeNodeLink_111);
         treeNodeLinkList_11.add(treeNodeLink_112);
 
@@ -108,7 +108,7 @@ public class ApiTest {
         treeNodeLink_122.setRuleLimitType(5);
         treeNodeLink_122.setRuleLimitValue("25");
 
-        List<TreeNodeLink> treeNodeLinkList_12 = new ArrayList<>();
+        List<TreeNodeLink> treeNodeLinkList_12 = new ArrayList<TreeNodeLink>();
         treeNodeLinkList_12.add(treeNodeLink_121);
         treeNodeLinkList_12.add(treeNodeLink_122);
 
@@ -148,7 +148,7 @@ public class ApiTest {
         treeRoot.setTreeRootNodeId(1L);
         treeRoot.setTreeName("规则决策树");
 
-        Map<Long, TreeNode> treeNodeMap = new HashMap<>();
+        Map<Long, TreeNode> treeNodeMap = new HashMap<Long, TreeNode>();
         treeNodeMap.put(1L, treeNode_01);
         treeNodeMap.put(11L, treeNode_11);
         treeNodeMap.put(12L, treeNode_12);
@@ -167,7 +167,7 @@ public class ApiTest {
 
         IEngine treeEngineHandle = new TreeEngineHandle();
 
-        Map<String, String> decisionMatter = new HashMap<>();
+        Map<String, String> decisionMatter = new HashMap<String, String>();
         decisionMatter.put("gender", "man");
         decisionMatter.put("age", "29");
 
