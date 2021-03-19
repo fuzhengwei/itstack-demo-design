@@ -35,7 +35,7 @@
 ## 源码下载
 
 - **Java** [https://github.com/fuzhengwei/itstack-demo-design | `小傅哥 Java 原创版本`](https://github.com/fuzhengwei/itstack-demo-design)
-- **Java** [https://gitee.com/itstack/itstack-demo-design | `小傅哥 Java 原创版本`](https://gitee.com/itstack/itstack-demo-design)
+- **Java** [https://gitee.com/fustack/itstack-demo-design | `小傅哥 Java 原创版本`](https://gitee.com/fustack/itstack-demo-design)
 - **Rust** [https://github.com/Forsworns/design-pattern | `Peihao Yang Rust 贡献版本`](https://github.com/Forsworns/design-pattern)
 
 *欢迎更多小伙伴，贡献关于此设计模式其他版语言，我会帮你添加链接*
