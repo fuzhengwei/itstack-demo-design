@@ -17,7 +17,7 @@ public class StarterService {
     }
 
     public String[] split(String separatorChar) {
-        return StringUtils.split(this.userStr, separatorChar);
+        return this.userStr.split(separatorChar);
     }
 
 }
