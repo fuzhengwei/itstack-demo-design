@@ -26,7 +26,7 @@
         <spring.version>4.3.24.RELEASE</spring.version>
         <spring-orm.version>3.1.1.RELEASE</spring-orm.version>
         <servlet-api.version>2.5</servlet-api.version>
-        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis-spring.version>1.3.2</mybatis-spring.version>
     </properties>
 
