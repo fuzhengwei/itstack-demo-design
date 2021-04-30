@@ -45,7 +45,7 @@ public class ApiTest {
 
         // 链接：1->12
         TreeNodeLink treeNodeLink_12 = new TreeNodeLink();
-        treeNodeLink_12.setNodeIdTo(1L);
+        treeNodeLink_12.setNodeIdFrom(1L);
         treeNodeLink_12.setNodeIdTo(12L);
         treeNodeLink_12.setRuleLimitType(1);
         treeNodeLink_12.setRuleLimitValue("woman");
