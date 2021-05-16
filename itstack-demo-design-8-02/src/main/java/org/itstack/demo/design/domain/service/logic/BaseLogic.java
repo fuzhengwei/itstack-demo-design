@@ -34,9 +34,9 @@ public abstract class BaseLogic implements LogicFilter {
             case 3:
                 return Double.parseDouble(matterValue) < Double.parseDouble(nodeLink.getRuleLimitValue());
             case 4:
-                return Double.parseDouble(matterValue) <= Double.parseDouble(nodeLink.getRuleLimitValue());
-            case 5:
                 return Double.parseDouble(matterValue) >= Double.parseDouble(nodeLink.getRuleLimitValue());
+            case 5:
+                return Double.parseDouble(matterValue) <= Double.parseDouble(nodeLink.getRuleLimitValue());
             default:
                 return false;
         }
