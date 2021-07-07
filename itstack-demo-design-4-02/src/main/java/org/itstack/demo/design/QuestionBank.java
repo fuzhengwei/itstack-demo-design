@@ -34,7 +34,7 @@ public class QuestionBank implements Cloneable {
         // 题目乱序
         Collections.shuffle(questionBank.choiceQuestionList);
         Collections.shuffle(questionBank.answerQuestionList);
-        // 答案乱序
+        // 选择题答案乱序
         ArrayList<ChoiceQuestion> choiceQuestionList = questionBank.choiceQuestionList;
         for (ChoiceQuestion question : choiceQuestionList) {
             Topic random = TopicRandomUtil.random(question.getOption(), question.getKey());
