@@ -2,9 +2,7 @@ package org.itstack.demo.design;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;
-import javafx.beans.binding.DoubleExpression;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
