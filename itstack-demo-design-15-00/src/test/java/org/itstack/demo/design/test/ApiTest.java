@@ -1,7 +1,5 @@
 package org.itstack.demo.design.test;
 
-import com.alibaba.fastjson.JSON;
-import org.apache.commons.lang3.StringUtils;
 import org.itstack.demo.design.group.Employee;
 import org.itstack.demo.design.group.GroupStructure;
 import org.itstack.demo.design.group.Link;
