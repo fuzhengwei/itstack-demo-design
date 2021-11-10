@@ -29,7 +29,7 @@
 - [书籍下载&购买](https://github.com/fuzhengwei/itstack-demo-design#%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E8%B4%AD%E4%B9%B0)
 - [源码下载](https://github.com/fuzhengwei/itstack-demo-design#%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD) - [GitHub](https://github.com/fuzhengwei/itstack-demo-design)、[Gitee](https://gitee.com/fustack/itstack-demo-design)
 - [内容简介](https://github.com/fuzhengwei/itstack-demo-design#%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B)
-- [电子版书籍]()
+- [电子版书籍](https://github.com/fuzhengwei/itstack-demo-design#%E7%94%B5%E5%AD%90%E7%89%88%E6%97%A7%E7%89%88---%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
 - [参与贡献](https://github.com/fuzhengwei/itstack-demo-design#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE)
 - [与我联系](https://github.com/fuzhengwei/itstack-demo-design#%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB)
 - [致谢](https://github.com/fuzhengwei/itstack-demo-design#%E8%87%B4%E8%B0%A2)
