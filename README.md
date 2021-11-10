@@ -26,13 +26,13 @@
 
 ## ⛳ 目录
 
-- [书籍下载&购买]()
-- [源码下载]() - [GitHub](https://github.com/fuzhengwei/itstack-demo-design)、[Gitee](https://gitee.com/fustack/itstack-demo-design)
-- [内容简介]()
+- [书籍下载&购买](https://github.com/fuzhengwei/itstack-demo-design#%E4%B9%A6%E7%B1%8D%E4%B8%8B%E8%BD%BD%E8%B4%AD%E4%B9%B0)
+- [源码下载](https://github.com/fuzhengwei/itstack-demo-design#%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD) - [GitHub](https://github.com/fuzhengwei/itstack-demo-design)、[Gitee](https://gitee.com/fustack/itstack-demo-design)
+- [内容简介](https://github.com/fuzhengwei/itstack-demo-design#%E5%86%85%E5%AE%B9%E7%AE%80%E4%BB%8B)
 - [电子版书籍]()
-- [参与贡献]()
-- [与我联系]()
-- [致谢]()
+- [参与贡献](https://github.com/fuzhengwei/itstack-demo-design#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE)
+- [与我联系](https://github.com/fuzhengwei/itstack-demo-design#%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB)
+- [致谢](https://github.com/fuzhengwei/itstack-demo-design#%E8%87%B4%E8%B0%A2)
 - [Go -> 小傅哥的更多原创内容 面经手册、手撸Spring、字节码编程、DDD实战项目、SpringBoot中间件等](https://github.com/fuzhengwei/CodeGuide)
 
 ## 书籍下载&购买
@@ -42,7 +42,7 @@
 >本书是作者`小傅哥`，投入50天时间，从互联网实际业务开发中抽离出，交易、营销、秒杀、中间件、源码等22个真实业务场景，编写了18万字271页的实战型Java编程资料。如果书中含有不易理解的内容，一定是作者在编写的过程中缺少必要的描述和严格的校准，感谢把你的意见或者疑问提交给我，也欢迎与我多一些交互，互相进步共同成长。
 
 - 旧版电子书：关注公众号：[bugstack虫洞栈 `点击扫码`](https://bugstack.cn/assets/images/qrcode.png)，回复：`设计模式`
-- 新版纸质书：[https://item.jd.com/13218336.html](https://u.jd.com/qPnzanP) `内容补充、添加类图、重画图稿、全书彩印`，一本可以在手边随时翻阅的设计模式，感谢支持。
+- 新版纸质书：[https://item.jd.com/13218336.html](https://item.jd.com/13218336.html) `内容补充、添加类图、重画图稿、全书彩印`，一本可以在手边随时翻阅的设计模式，感谢支持。
 
 
 ## 源码下载
@@ -78,7 +78,7 @@
 
 本书属于实战型而不是理论介绍类书籍，每一章节都有对应的完整代码，学习的过程需要参考书中的章节与代码一起学习，同时在学习的过程中需要了解并运行代码。学习完成后进行知识点的总结，以及思考🤔这样的设计模式在自己的业务场景中需要如何使用。
 
-## 在线阅读 - 👉[**在线阅读**](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
+## 电子版(旧版) - 👉[**在线阅读**](https://bugstack.cn/md/develop/design-pattern/2020-05-20-%E9%87%8D%E5%AD%A6Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8A%E5%AE%9E%E6%88%98%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E3%80%8B.html)
 
 - 创建型模式
 
