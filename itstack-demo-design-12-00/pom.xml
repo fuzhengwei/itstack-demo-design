@@ -17,7 +17,7 @@
         <sourceEncoding>UTF-8</sourceEncoding>
         <!-- Open Service -->
         <commons-lang3.version>3.8.1</commons-lang3.version>
-        <fastjson.version>1.2.60</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.0.9</logback.version>
         <mysql.version>5.1.20</mysql.version>
