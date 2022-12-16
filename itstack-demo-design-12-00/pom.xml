@@ -23,7 +23,7 @@
         <mysql.version>5.1.20</mysql.version>
         <resteasy.version>2.2.1.GA</resteasy.version>
         <slf4j.version>1.7.7</slf4j.version>
-        <spring.version>4.3.24.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <spring-orm.version>3.1.1.RELEASE</spring-orm.version>
         <servlet-api.version>2.5</servlet-api.version>
         <mybatis.version>3.4.6</mybatis.version>
