@@ -33,7 +33,19 @@
 - [参与贡献](https://github.com/fuzhengwei/itstack-demo-design#%E5%8F%82%E4%B8%8E%E8%B4%A1%E7%8C%AE)
 - [与我联系](https://github.com/fuzhengwei/itstack-demo-design#%E4%B8%8E%E6%88%91%E8%81%94%E7%B3%BB)
 - [致谢](https://github.com/fuzhengwei/itstack-demo-design#%E8%87%B4%E8%B0%A2)
-- [Go -> 小傅哥的更多原创内容 面经手册、手撸Spring、字节码编程、DDD实战项目、SpringBoot中间件等](https://github.com/fuzhengwei/CodeGuide)
+- [Go -> 小傅哥的更多原创内容 面经手册、字节码编程、DDD实战项目、SpringBoot中间件等](https://bugstack.cn/md/zsxq/introduce.html)
+- [通过实战项目锻炼设计模式，锻炼编码能力，提高编程思维](https://bugstack.cn/md/zsxq/introduce.html)
+  - 业务项目
+	- [ChatGPT 微服务应用体系构建 - API-SDK、鉴权、公众号、企业微信、支付服务](https://bugstack.cn/md/zsxq/project/chatgpt.html)- 👣 进行中
+	- [Lottery 分布式抽奖系统 - 基于领域驱动设计的四层架构实践](https://bugstack.cn/md/zsxq/project/lottery.html)
+	- [Netty+JavaFx实战：仿桌面版微信聊天](https://bugstack.cn/md/zsxq/project/im.html)
+	- [ChatGPT AI 问答助手 - 小型，对接知识星球](https://bugstack.cn/md/zsxq/project/chatbot-api.html)
+
+  - 组件项目
+
+	- [API网关：中间件设计和实践](https://bugstack.cn/md/zsxq/project/api-gateway.html)
+	- [SpringBoot Starter 中间件设计和开发](https://bugstack.cn/md/zsxq/project/springboot-starter.html)
+	- [IDEA Plugin 开发手册](https://bugstack.cn/md/zsxq/booklet/idea-plugin.html)
 
 ## 书籍下载&购买
 
