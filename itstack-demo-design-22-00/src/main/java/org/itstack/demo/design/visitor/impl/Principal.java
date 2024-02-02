@@ -16,7 +16,7 @@ public class Principal implements Visitor {
     }
 
     public void visit(Teacher teacher) {
-        logger.info("学生信息 姓名：{} 班级：{} 升学率：{}", teacher.name, teacher.clazz, teacher.entranceRatio());
+        logger.info("老师信息 姓名：{} 班级：{} 升学率：{}", teacher.name, teacher.clazz, teacher.entranceRatio());
     }
 
 }
