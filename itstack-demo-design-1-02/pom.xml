@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-1-02</artifactId>
+    <description>工厂模式 Factory</description>
 
     <dependencies>
         <dependency>

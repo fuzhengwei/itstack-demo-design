@@ -10,6 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-3-02</artifactId>
+    <description>建造者模式 Builder</description>
+
     <dependencies>
         <dependency>
             <groupId>org.itstack</groupId>

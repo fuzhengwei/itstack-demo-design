@@ -6,6 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-10-02</artifactId>
+    <description>外观模式 Facade 不符合开闭原则</description>
 
     <packaging>jar</packaging>
 

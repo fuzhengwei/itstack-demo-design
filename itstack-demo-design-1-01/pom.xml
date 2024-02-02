@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-1-01</artifactId>
+    <description>反例</description>
 
     <dependencies>
         <dependency>

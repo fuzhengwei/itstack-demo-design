@@ -10,6 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-4-02</artifactId>
+    <description>原型模式 Prototype clone()</description>
+
     <dependencies>
         <dependency>
             <groupId>org.itstack</groupId>

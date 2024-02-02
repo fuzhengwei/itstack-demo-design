@@ -10,6 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-22-00</artifactId>
-
+    <description>访问者模式 Visitor 违反最少知道原则、依赖倒置原则，符合单一职责</description>
 
 </project>

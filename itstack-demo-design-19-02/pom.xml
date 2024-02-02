@@ -10,6 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-19-02</artifactId>
+    <description>状态模式 State</description>
+
     <dependencies>
         <dependency>
             <groupId>org.itstack</groupId>

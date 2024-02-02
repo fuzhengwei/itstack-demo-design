@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-2-02</artifactId>
+    <description>抽象工厂模式 Abstract Factory（代理工厂）</description>
 
     <dependencies>
         <dependency>
