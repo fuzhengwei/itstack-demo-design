@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" debug="false" scanPeriod="30 seconds">
+
+  <property name="linkPattern" value="%d{yyyy-MM-dd HH:mm:ss.SSS}\t%level\t%thread\t%X{traceId}\t(%F:%L\\\)\t|\t%msg%n"/>
+
+  <appender name="LinkConsole" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder>
+      <pattern>${linkPattern}</pattern>
+      <charset>UTF-8</charset>
+    </encoder>
+  </appender>
+
+  <logger name="ch.qos.logback" level="warn"/>
+
+  <root level="info">
+    <appender-ref ref="LinkConsole"/>
+  </root>
+
+</configuration>
