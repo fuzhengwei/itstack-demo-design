@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-11-02</artifactId>
+    <description>享元模式 Flyweight</description>
 
     <build>
         <finalName>itstack-demo-design-11-02</finalName>

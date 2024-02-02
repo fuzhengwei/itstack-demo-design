@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>itstack-demo-design-15-00</artifactId>
-    <description>迭代器模式 Iterator</description>
+    <artifactId>itstack-demo-log</artifactId>
+    <description>日志显示代码位置链接方便学习</description>
 
 
 </project>

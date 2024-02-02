@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-17-00</artifactId>
+    <description>备忘录模式 Memento 存档</description>
 
 
 </project>

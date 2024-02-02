@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-20-02</artifactId>
+    <description>策略模式 Strategy</description>
 
 
 </project>

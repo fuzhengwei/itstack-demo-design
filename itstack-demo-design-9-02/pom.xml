@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-9-02</artifactId>
+    <description>装饰器模式 Decorator 继承套娃 Reader</description>
     <dependencies>
         <dependency>
             <groupId>org.itstack</groupId>

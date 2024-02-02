@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>itstack-demo-design-16-02</artifactId>
+    <description>中介者模式 Mediator 网状变星状</description>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->

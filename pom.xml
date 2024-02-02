@@ -67,9 +67,15 @@
         <module>itstack-demo-design-20-02</module>
         <module>itstack-demo-design-21-00</module>
         <module>itstack-demo-design-22-00</module>
+        <module>itstack-demo-log</module>
     </modules>
 
     <dependencies>
+        <dependency>
+            <groupId>org.itstack</groupId>
+            <artifactId>itstack-demo-log</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
         <dependency>
             <groupId>com.alibaba</groupId>
