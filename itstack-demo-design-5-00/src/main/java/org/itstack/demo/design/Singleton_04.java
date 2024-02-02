@@ -1,5 +1,8 @@
 package org.itstack.demo.design;
 
+/**
+ * 内部类懒加载(线程安全)
+ */
 public class Singleton_04 {
 
     private static class SingletonHolder {

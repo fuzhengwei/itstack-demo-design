@@ -2,6 +2,9 @@ package org.itstack.demo.design;
 
 import java.util.concurrent.atomic.AtomicReference;
 
+/**
+ * CAS(线程安全) AtomicReference
+ */
 public class Singleton_06 {
 
     private static final AtomicReference<Singleton_06> INSTANCE = new AtomicReference<Singleton_06>();
